@@ -1,2 +1,5 @@
 # hello-world
-Just learning
+
+I'm into python.
+
+Just testing how to use GitHub.
