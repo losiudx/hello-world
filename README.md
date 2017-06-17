@@ -1,7 +1,6 @@
 # hello-world
 
-I'm into python.
-
+#this line was unnecessary
 Just testing how to use GitHub.
 
 Additional line.
