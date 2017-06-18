@@ -4,3 +4,5 @@
 Just testing how to use GitHub.
 
 Additional line.
+
+Fixing an issue.
